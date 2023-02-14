@@ -1,0 +1,20 @@
+Name: Yeesa Kee
+Section: AE
+Answers to the written portion of homework 3
+
+1. a) No I do not think the bar chart from part 1b is an effective data visualization.
+      There are only 3 bars and the heights of the bars are very close therefore it gives
+      very little information regarding the graph. 
+   b) I chose a line graph for part 1c. I thought a line graph would be a good option because
+      it helps show the general trends of how the percentage of Hispanic individuals
+      with degrees has changed between 1990 and 2010. We are able to see if where the percentage
+      may be increasing, decreasing, or staying the same.
+
+2. The limitations to the dataset is that it only includes people from 25 to 29 years old. The
+   records only include 1920 to 2018, this dataset cannot be used to compare the later years.
+   There is only a set amount of races that is included, and it only includes information of
+   people in the U.S.
+
+3. Yes, if the dataset is not updated the predictions will most likely become more and more 
+   inaccurate because the data will become old. Because the dataset is separated by race people
+   might use the data unethically by comparing different races' the percentages of people receiving degrees.
